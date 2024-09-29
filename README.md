@@ -28,7 +28,8 @@ To run this project locally, you'll need to have Node.js installed on your machi
 
 1. Clone this repository:
 
-git clone https://github.com/your-username/quiz-web.git
+git clone https://github.com/shivammishraa/Quiz-web.git
+
 cd quiz-web
 
 
