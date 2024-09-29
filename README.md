@@ -69,6 +69,3 @@ git push origin feature-new-feature
 
 
 5. Open a Pull Request.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
